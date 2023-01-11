@@ -18,6 +18,9 @@ html, body {
 } 
 
 canvas {
-  display: block; 
+  display: inline-block; 
+  box-sizing: border-box;
+  vertical-align: top;
+  border: 5px solid rgb(255, 0, 0);
+  border-radius: 3px;
 }
-  
