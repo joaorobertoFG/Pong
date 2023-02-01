@@ -5,7 +5,7 @@ Rápida descrição do objetivo de fazer esse projeto
 |  |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Pong**
-| :label: Tecnologias | java, html
+| :label: Tecnologias | javascript, html
 | :rocket: URL         | https://joaorobertofg.github.io/Pong/
 
 ## Detalhes do projeto
